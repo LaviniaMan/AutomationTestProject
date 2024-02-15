@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f490f4bd-0de3-49f3-823d-3d40096e0941" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/totalTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comenzi/bebetei/AddAdressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comenzi/bebetei/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comenzi/bebetei/ModifyFavoriteListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comenzi/bebetei/SearchItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comenzi/bebetei/WrongLoginTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2c2GrD9R3TKEAgvXpVe0ylrEeqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/lavid/IdeaProjects/AutomationTestProject/src/test/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lavid/IdeaProjects/AutomationTestProject/src/main/java/com/herokuapp/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="comenzi.bebetei" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/lavid/IdeaProjects/AutomationTestProject/src/main/resources/totalTest.xml">
+    <configuration name="AddAdressTest.AddAdress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comenzi.bebetei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comenzi.bebetei" />
+      <option name="MAIN_CLASS_NAME" value="comenzi.bebetei.AddAdressTest" />
+      <option name="METHOD_NAME" value="AddAdress" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/lavid/AppData/Local/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comenzi.bebetei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="comenzi.bebetei" />
+      <option name="MAIN_CLASS_NAME" value="comenzi.bebetei.SearchTest" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/lavid/IdeaProjects/AutomationTestProject/src/main/resources/totalTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/totalTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifyFavoriteListTest.AddFavoriteList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comenzi.bebetei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comenzi.bebetei" />
+      <option name="MAIN_CLASS_NAME" value="comenzi.bebetei.ModifyFavoriteListTest" />
+      <option name="METHOD_NAME" value="AddFavoriteList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comenzi.bebetei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comenzi.bebetei" />
+      <option name="MAIN_CLASS_NAME" value="comenzi.bebetei.SearchItemTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/lavid/IdeaProjects/AutomationTestProject/src/main/resources/totalTest.xml" />
+        <item itemvalue="TestNG.C:/Users/lavid/AppData/Local/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.SearchItemTest" />
+        <item itemvalue="TestNG.ModifyFavoriteListTest.AddFavoriteList" />
+        <item itemvalue="TestNG.AddAdressTest.AddAdress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f490f4bd-0de3-49f3-823d-3d40096e0941" name="Changes" comment="" />
+      <created>1707302458927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707302458927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/herokuapp/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

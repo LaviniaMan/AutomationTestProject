@@ -1,0 +1,52 @@
+<suite name="All" verbose="1">
+
+    <test name="LoginTest">
+        <parameter name ="email" value ="dummy199006@yahoo.com"/>
+        <parameter name ="password" value ="Dummyisdummy24."/>
+        <parameter name ="successMessage" value ="Bun venit, Petran Cecilia!"/>
+
+        <classes>
+            <class name = "comenzi.bebetei.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="WrongLoginTestEmail">
+        <parameter name ="email1" value ="wrongemail@yahoo.com"/>
+        <parameter name = "email2" value ="dummy199006@yahoo.com"/>
+        <parameter name = "newaccount" value="Introduceți restul de date pentru a vă putea crea un "/>
+        <parameter name ="password" value= "wrongpassword"/>
+        <parameter name ="error" value ="Parola nu este validă"/>
+
+        <classes>
+            <class name = "comenzi.bebetei.WrongLoginTest"/>
+        </classes>
+    </test>
+
+    <test name="ModifyFavoriteListTest">-->
+            <classes>
+                <class name="comenzi.bebetei.ModifyFavoriteListTest"/>
+            </classes>
+        </test>
+
+    <test name="SearchItemTest">-->
+        <classes>
+            <class name="comenzi.bebetei.SearchItemTest"/>
+        </classes>
+    </test>
+
+    <test name="AddAdressTest">
+        <parameter name ="name" value ="Cecilia"/>
+        <parameter name ="firstname" value ="Petran"/>
+        <parameter name ="phone" value ="0720445566"/>
+        <parameter name ="email" value ="dummy199006@yahoo.com"/>
+        <parameter name ="street" value ="Str Valea Frumoasa"/>
+        <parameter name ="streetnr" value ="45"/>
+        <parameter name ="zipcode" value ="400529"/>
+
+        <classes>
+                <class name="comenzi.bebetei.AddAdressTest"/>
+        </classes>
+    </test>
+
+
+</suite>
